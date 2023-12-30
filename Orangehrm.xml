@@ -1,0 +1,29 @@
+<suite name = "Orangehrm Test Suite">
+	<!--
+	<test name ="Emplofnyee Registration Test">
+		<parameter name = "fname" value ="sanju"></parameter>
+		<parameter name = "lname" value ="sir"></parameter>
+		<classes>
+			
+			<class name = "TestCases.EmpRegTest"></class>
+			
+		</classes>
+		
+	 	
+	</test>
+	        -->
+	<test name ="User Registration test">
+		
+		<parameter name ="firstname" value="sanju"></parameter>
+		<parameter name ="lastenam" value="Arepelly"></parameter>
+		<classes>
+			
+			<class name = "TestCases.UserRegTest"></class>
+			
+		</classes>
+		
+	</test>
+	
+	
+	
+</suite>
